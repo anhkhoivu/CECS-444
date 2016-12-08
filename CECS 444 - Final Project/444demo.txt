@@ -1,0 +1,9 @@
+int main()
+{
+	int x = 0 ;
+	double p = 15.35 ;
+	boolean cond = true ;
+	char a = ' kj ' ;
+	string s = " string " ;
+	int a = p ;
+}
